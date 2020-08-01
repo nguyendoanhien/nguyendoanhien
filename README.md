@@ -23,3 +23,7 @@ Currently. I'm a Full-Stack (Software Engineer) Developer.
 **Other hobbies:**
 - Cat.
 - Linux OS.
+
+**Languages:**
+- 🇻🇳
+- 🇺🇸
