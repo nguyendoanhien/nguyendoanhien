@@ -6,7 +6,7 @@ My name is Hien and I love programming 😁
 
 I am a fresh graduate student from Sai Gon University. I have been working in software industry since I was a Junior Student. (My experiences ~3 years)
 
-Currently. I'm a Full-Stack web developer.
+Currently. I'm a Full-Stack (Software Engineer) Developer.
 <hr>
 
 **I Worked with:**
@@ -18,7 +18,7 @@ Currently. I'm a Full-Stack web developer.
 - https://doanhien.cf
 - https://blog.doanhien.cf
 - https://linkedin/nguyendoanhien
-
+- https://stackoverflow.com/users/11415487/hien-nguyen
 **Other hobbies:**
 - Cat.
 - Linux OS.
