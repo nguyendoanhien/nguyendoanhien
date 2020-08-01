@@ -11,7 +11,7 @@ Currently. I'm a Full-Stack (Software Engineer) Developer.
 
 **I Worked with:**
 - .NET Core (API)
-- Angular(JS,8+)
+- Angular(JS, 8+)
 - ...
 
 **My public sites:**
@@ -19,6 +19,7 @@ Currently. I'm a Full-Stack (Software Engineer) Developer.
 - https://blog.doanhien.cf
 - https://linkedin/nguyendoanhien
 - https://stackoverflow.com/users/11415487/hien-nguyen
+
 **Other hobbies:**
 - Cat.
 - Linux OS.
