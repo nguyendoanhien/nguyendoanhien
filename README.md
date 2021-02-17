@@ -15,8 +15,8 @@ Currently. I'm a Full-Stack (Software Engineer) Developer.
 - OpenSource projects (js base)
 
 **My public sites:**
+- https://nguyendoanhien.9xdevelopers.com
 - https://9xdevelopers.com
-- https://blog.9xdevelopers.com
 - https://linkedin/nguyendoanhien
 - https://stackoverflow.com/users/11415487/hien-nguyen
 
