@@ -4,21 +4,21 @@
 
 My name is Hien and I love programming 😁
 
-I am a fresh graduate student from Sai Gon University. I have been working in software industry since I was a Junior Student. (My experiences ~4 years)
+I am an software engineer. I have been working in software industry since I was a Junior Student. (My experiences ~4 years)
 
-Currently. I'm a Full-Stack (Software Engineer) Developer.
+Currently. I'm a Full-Stack (.NET, JS) Developer.
 <hr>
 
 **I Worked with:**
 - .NET Core (API)
-- Angular(JS, 8+)
+- Angular(JS, 8+), ReactJS(Native)
 - OpenSource projects (js base)
 
 **My public sites:**
-- https://nguyendoanhien.9xdevelopers.com
-- https://9xdevelopers.com
-- https://linkedin/nguyendoanhien
-- https://stackoverflow.com/users/11415487/hien-nguyen
+- CV: https://nguyendoanhien.9xdevelopers.com
+- Blog: https://9xdevelopers.com
+- Linkedin: https://linkedin/nguyendoanhien
+- Forum: https://stackoverflow.com/users/11415487/hien-nguyen
 
 **Other hobbies:**
 - Cat.
